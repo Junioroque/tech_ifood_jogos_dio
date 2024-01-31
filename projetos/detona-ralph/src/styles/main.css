@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url(../images/wall.png);
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90px;
+    width: 100%;
+    background-color: #515050;
+    font-size: 25px;
+    border-bottom: 3px solid rgb(121, 121, 121);
+}
+
+.panel {
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.square {
+    height: 170px;
+    width: 170px;
+    border: 1px solid #515050;
+    background-color: greenyellow;
+}
+
+.enemy {
+    background-image: url(../images/ralph.png);
+    background-size: cover;
+}
+
+.menu-lives {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
