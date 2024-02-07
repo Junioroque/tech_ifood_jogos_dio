@@ -4,7 +4,7 @@
 <p>Exercicio_Jornada_Ifood</p>
 <p>Entra nos links para visualizar</p>	
 
-* [ Academia de magia ]( https://github.com/Junioroque/tech_ifood_jogos_dio/tree/main/exercicio_Jornada_Ifood )    
+* [ Academia de magia ]( https://github.com/Junioroque/tech_ifood_jogos_dio/blob/main/exercicio_Jornada_Ifood/academia_de_magia.js )    
 * [ Capitura de pokemons ]( https://github.com/Junioroque/tech_ifood_jogos_dio/blob/main/exercicio_Jornada_Ifood/capitura_pokemons.js )
 * [ Coleta de tesouro Dungeon ]( https://github.com/Junioroque/tech_ifood_jogos_dio/blob/main/exercicio_Jornada_Ifood/coleta_Tesouros_Dungeon.js )
 * [ Combatendo monstros ]( https://github.com/Junioroque/tech_ifood_jogos_dio/blob/main/exercicio_Jornada_Ifood/combatendo_monstros.js )
