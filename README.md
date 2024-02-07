@@ -1,5 +1,5 @@
 # tech_ifood_jogos_dio
-<p>Uma jornada de aprendizagem com o Bootcamp da Dio Innovantion parceria co Ifood</p>
+<p>Uma jornada de aprendizagem com o Bootcamp da Dio Innovation parceria com Ifood</p>
 <p>Com muitos exercícios e projetos</p>
 <p>Exercicio_Jornada_Ifood</p>
 <p>Entra nos links para visualizar</p>
