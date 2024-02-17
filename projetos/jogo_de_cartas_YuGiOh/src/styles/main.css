@@ -1,3 +1,67 @@
-body {
-    background-color: aqua;
+.bg-video {
+    position: absolute;
+    z-index: -2;
+    width: 100vw;
+    height: 100vh;
+    overflow: hiddem;
+    display: flex;
+    justify-content: center;
+}
+
+.bg-video .video {
+    height: 100vh;
+}
+
+.bg-video::after {
+    content: " ";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(90deg, rgb(36, 36, 36)0%, rgba(39, 39, 39, 0.8)50%, rgb(15, 15, 15)100%);
+}
+
+.container {
+    position: relative;
+    z-index: 3;
+    display: flex;
+    height: 100vh;
+}
+
+.container_left {
+    width: 35%;
+    min-width: 300px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.score_box {
+    background-color: #fff;
+    padding: 30px;
+}
+
+.frame {
+    border: 3px solid #000;
+    border-radius: 5px;
+}
+
+.card_details {
+    background-color: #fff;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 6rem;
+    width: 100%;
+}
+
+#card_name {
+    font-size: 0.8rem;;
+}
+
+#card_size {
+    font-size: 1rem;
 }
