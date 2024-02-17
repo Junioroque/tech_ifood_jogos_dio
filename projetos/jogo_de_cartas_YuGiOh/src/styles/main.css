@@ -37,6 +37,10 @@
     justify-content: space-around;
 }
 
+.container_right {
+    width: 65%;
+}
+
 .score_box {
     background-color: #fff;
     padding: 30px;
@@ -64,4 +68,18 @@
 
 #card_size {
     font-size: 1rem;
+}
+
+.card_box_container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0.3rem;
+}
+
+.card_versus {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
 }
